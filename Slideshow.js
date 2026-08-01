@@ -1,8 +1,8 @@
 let arrImages = [
-            "alexander-kaufmann-qRBEPQeJ6hE-unsplash.jpg",
-            "kirill-chukhnov-c5adA6zENBg-unsplash.jpg",
-            "kirill-chukhnov-PEXAymTSZdE-unsplash.jpg",
-            "maverick-frame-4-yLQog02Tc-unsplash.jpg",
+            "./images/alexander-kaufmann-qRBEPQeJ6hE-unsplash.jpg",
+            "./images/kirill-chukhnov-c5adA6zENBg-unsplash.jpg",
+            "./images/kirill-chukhnov-PEXAymTSZdE-unsplash.jpg",
+            "./images/maverick-frame-4-yLQog02Tc-unsplash.jpg",
         ];
 
         // variable to keep track of the current image index
